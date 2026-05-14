@@ -95,6 +95,6 @@ Zomato-Restaurant-Analytics-Dashboard/
 
 ## 🔗 Links
 
-- 💼 Fiverr: [fiverr.com/vijai_analyst](https://fiverr.com/vijai_analyst)
+- 💼 Book a free 30-mins Data Audit Call: [cal.com/free_30-min_data_audit_call](https://cal.com/vijaivarma/free-30-min-data-audit-call)
 - 🌐 Portfolio: [vijaivarma.github.io/Portfolio](https://vijaivarma.github.io/Portfolio)
 - 💼 LinkedIn: [linkedin.com/in/vijaivarmadataanalyst](https://linkedin.com/in/vijaivarmadataanalyst)
